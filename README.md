@@ -27,7 +27,7 @@ The standout feature is a suite of AI-powered tools, built using the Google Gemi
     ```
 3.  **Add your API Key:**
     *   Open the `script.js` file.
-    *   Find the line `const apiKey = "AIzaSyBrhPgsSZ8PbTdb-ABfbq5TMeChwTuk-Zg";`.
+    *   Find the line `const apiKey = "GEMINI_API_KEY";`.
     *   Replace the placeholder key with your own Google Gemini API key.
     
     > **Warning**
